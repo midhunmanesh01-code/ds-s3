@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
 int a[20][3], b[20][3], c[20][3];
@@ -22,18 +21,16 @@ for(i = 0; i < n; i++)
 {
 if(a[i][0] == b[i][0] && a[i][1] == b[i][1])
 {
-    c[i][0] = a[i][0];
-    c[i][1] = a[i][1];
-    c[i][2] = a[i][2] + b[i][2];
+ c[i][0] = a[i][0];
+ c[i][1] = a[i][1];
+ c[i][2] = a[i][2] + b[i][2];
 
-    printf("%d %d %d\n", c[i][0], c[i][1], c[i][2]);
+ printf("%d %d %d\n", c[i][0], c[i][1], c[i][2]);
 }
 else
 {
-    printf("Addition not possible. Positions do not match.\n");
-    return 0;
+ printf("Addition not possible. Positions do not match.\n");
+ return 0;
 }
 }
-
-return 0;
 }
