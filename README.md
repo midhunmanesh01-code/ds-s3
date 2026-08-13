@@ -18,7 +18,10 @@ The repository will be updated throughout the semester as I complete more lab ex
 - ✅ Polynomial Addition
 - ✅ Sparse Matrix Addition
 - ✅ Sparse Matrix Transpose
-
+- ✅ Circular Queue
+- ✅ Double-ended Queue
+- ✅ Multistack
+- ✅ Stack Link-List
 ---
 
 ## 🛠️ How to Run
