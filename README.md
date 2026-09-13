@@ -6,7 +6,7 @@
 
 This repository contains my **Data Structures Lab programs** implemented in **C** as part of the **KTU B.Tech 2024 Scheme (Semester 3)**.
 
-The repository will be updated throughout the semester as I complete more lab experiments.
+The repository will be updated throughout the semester as we complete more lab experiments.
 
 ---
 
